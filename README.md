@@ -1,2 +1,1 @@
-# LSA-V2
-LSA V2
+# Discord(https://disboard.org/)
